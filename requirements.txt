@@ -1,0 +1,6 @@
+flask==2.3.3
+qiskit-ibm-runtime
+qiskit
+qiskit-algorithms
+pandas==2.0.3
+plotly==5.15.0
